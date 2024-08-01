@@ -1,5 +1,5 @@
 #Name your workflow
-name: hello-wold
+name: hello-world
 
 #Event Trigger
 on: push
